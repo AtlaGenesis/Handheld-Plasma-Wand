@@ -19,12 +19,14 @@ Battery:
 
 Driver:
 - MOSFETs: 3x FQP30N06L (1 for power 2 for zvs)
-- Capacitors: 1x 470nf MKP 275vac 
+- Capacitors: 1x 100nF CBB81 104J capacitor 
 - Diodes: 2x MUR120
 - Zener: 2x generic 12v 1W 
-- Pull down: 2x generic 10k 1/4W
-- gate resistor: 2x generic 220r 2W
-- toroid core
+- Pull down: 3x generic 10k 1/4W
+- gate resistor: 3x generic 220r 2W
+- toroid core (4 T90-26 Yellow White) stacked
+- 1mm enamelled copper wire for toroid core winding
+- 6x6x8 Tact Switch 
 
 Transformer:
 - 15kv plasma arc electric lighter KIT
@@ -38,6 +40,7 @@ Transformer:
 - 30% Infill
 
 Additionals:
-- M2x8 screws pan head 
+- 2.5mm square Solid copper wire (for electrodes)
+
 
 (QUANTITIES BOUGHT MAY BE MORE THAN NEEDED DUE TO STORE MOQ)
